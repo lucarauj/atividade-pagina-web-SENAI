@@ -1,6 +1,10 @@
-# Atividade página Web
+# Atividade Página Web
 
+## Utilizando Bootstrap:
 
+- Navbar
+- Carousel
+- Card
 
 <br>
 
