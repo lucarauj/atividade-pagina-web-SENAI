@@ -1,5 +1,7 @@
 # Atividade Página Web
 
+<br>
+
 ## Utilizando Bootstrap:
 
 - Navbar
@@ -10,17 +12,17 @@
 
 ## Layout - Home
 
-<img width="250px" src="">
+<img width="900px" src="https://github.com/lucarauj/atividade-pagina-web-SENAI/blob/main/img/home1.png">
 
-<img width="250px" src="">
+<img width="900px" src="https://github.com/lucarauj/atividade-pagina-web-SENAI/blob/main/img/home2.png">
 
 <br>
 
 ## Layout - Login
 
-<img width="250px" src="">
+<img width="900px" src="https://github.com/lucarauj/atividade-pagina-web-SENAI/blob/main/img/login1.png">
 
-<img width="250px" src="">
+<img width="900px" src="https://github.com/lucarauj/atividade-pagina-web-SENAI/blob/main/img/login2.png">
 
 <br>
 
