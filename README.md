@@ -8,6 +8,22 @@
 
 <br>
 
+## Layout - Home
+
+<img width="250px" src="">
+
+<img width="250px" src="">
+
+<br>
+
+## Layout - Login
+
+<img width="250px" src="">
+
+<img width="250px" src="">
+
+<br>
+
 # 👨🏼‍🎓 Aluno
 
 Lucas Araujo
